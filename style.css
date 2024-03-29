@@ -1,0 +1,26 @@
+textarea {
+  /* resize: none; */
+  background-color: white;
+}
+button{
+    border: none;
+}
+.add-btn{
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+}
+.colors button {
+  width: 42px;
+  height: 30px;
+  border:none;
+}
+#color-container{
+color:#fff;
+font-size: 20px;
+font-weight: 500;
+
+}
+#color-container div{
+    padding: 5px 10px;
+}
